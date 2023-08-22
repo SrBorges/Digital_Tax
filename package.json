@@ -1,0 +1,24 @@
+{
+  "name": "digital_tax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrBorges/Digital_Tax.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrBorges/Digital_Tax/issues"
+  },
+  "homepage": "https://github.com/SrBorges/Digital_Tax#readme",
+  "devDependencies": {
+    "jest": "29.6.3"
+  }
+}
